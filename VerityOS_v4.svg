@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <title>VerityOS</title>
+  <rect width="100%" height="100%" fill="#0b0f0c"/>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="position:fixed;inset:0;margin:0">
+      <iframe src="https://verityedu.cfd/" allow="fullscreen; autoplay; clipboard-write; microphone" allowfullscreen="allowfullscreen" style="border:0;width:100%;height:100%;display:block"></iframe>
+    </div>
+  </foreignObject>
+  <a href="https://verityedu.cfd/" target="_blank">
+    <text x="99%" y="98%" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#facc15" opacity=".7">Not loading? Open VerityOS</text>
+  </a>
+</svg>
